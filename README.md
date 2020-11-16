@@ -3,4 +3,5 @@ Paint gibi bir çizim programıdır kordinatlarını gösterir - kare, nokta ve 
 Run Compleir 
  
  javac cbs.java
+ 
  java cbs
